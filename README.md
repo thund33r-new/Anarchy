@@ -1,13 +1,12 @@
-# About
-Anarchy is an open source Discord API wrapper. It has REST, Gateway and media (although live streaming functionality is limited) support, including user-only functions, making it the most capable wrapper by a long shot.
+# Все о Discord API Anarchy
+Anarchy — это оболочка Discord API с открытым исходным кодом. Он имеет поддержку REST, Gateway и мультимедиа (хотя функциональность потоковой передачи в реальном времени ограничена), включая функции только для пользователя, что делает его наиболее функциональной оболочкой с большим отрывом.
 
-# Documentation
+# Документация
 
-Examples can be found in the `.\Examples` folder.
+Примеры можно найти в папке `.\Examples`.
 
-Documentation and a tutorial can be found [here](https://ilinked1337.gitbook.io/anarchy/).
+Документацию и руководство можно найти [здесь] (https://ilinked1337.gitbook.io/anarchy/).
 
-# Source Code
+# Исходный код
 
-Source code is available on [github](https://github.com/not-ilinked/Anarchy).
-
+Исходный код доступен на [github](https://github.com/thund33r-new/Anarchy).
